@@ -8,12 +8,17 @@
 * Vanilla CSS3
 
 ## Description 🛠️
-Responsive task board project.<br>
-The logic was written using vanilla JavaScript<br>
-- Notes are saved in the local storage.
+Responsive task board project.
 
-The design was made by using vanilla CSS3:<br>
--CSS Grid and CSS flexbox for the layout.<br>
+The logic was written using vanilla JavaScript
+
+
+-Notes are saved in the local storage.
+
+The design was made by using vanilla CSS3:
+
+-CSS Grid and CSS flexbox for the layout.
+
 -CSS Animation for the notes fade-in effect.
 
 👉 &nbsp; For live preview, <strong><a href="https://taskboardproject.netlify.app/">Click Here</a></string>
