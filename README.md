@@ -12,14 +12,13 @@ Responsive task board project.
 
 The logic was written using vanilla JavaScript
 
-
--Notes are saved in the local storage.
+- User inputs are saved in the local storage.
 
 The design was made by using vanilla CSS3:
 
--CSS Grid and CSS flexbox for the layout.
+- CSS Grid and CSS flexbox for the layout.
 
--CSS Animation for the notes fade-in effect.
+- CSS Animation for the notes fade-in effect.
 
 👉 &nbsp; For live preview, <strong><a href="https://taskboardproject.netlify.app/">Click Here</a></string>
 
