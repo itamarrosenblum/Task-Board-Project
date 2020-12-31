@@ -15,3 +15,5 @@
 <img src="https://im7.ezgif.com/tmp/ezgif-7-fdf44ecd1fda.gif" alt="Task Board project">
 
 <img src="https://im7.ezgif.com/tmp/ezgif-7-702d77909ffc.gif" alt="Task Board project">
+
+<img src="https://im7.ezgif.com/tmp/ezgif-7-4ba8b5e47c79.gif" alt="Task Board project">
