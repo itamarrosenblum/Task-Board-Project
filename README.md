@@ -14,7 +14,7 @@ The logic was written using vanilla JavaScript.
 
 - User inputs are saved in the local storage.
 
-The design was created by using vanilla CSS3, e.g.
+The design was made by using vanilla CSS3, e.g.
 
 - CSS Grid and CSS Flexbox were used for the layout.
 
