@@ -5,12 +5,14 @@
 ## Technologies used 🛠️
 * Vanilla JavaScript
 * HTML5
-* CSS3
+* Vanilla CSS3
 
 ## Description 🛠️
 Responsive task board project.<br>
-User inputs are saved in the local storege.
-The design was made by using prue CSS3:<br>
+The logic was written using vanilla JavaScript<br>
+- Notes are saved in the local storage.
+
+The design was made by using vanilla CSS3:<br>
 -CSS Grid and CSS flexbox for the layout.<br>
 -CSS Animation for the notes fade-in effect.
 
