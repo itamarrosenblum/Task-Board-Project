@@ -11,8 +11,8 @@
 Responsive task board project.<br>
 User inputs are saved in the local storege.
 The design was made by using prue CSS3:
-- CSS Grid and CSS flexbox for the layout.
-- CSS Animation for the notes fade-in effect.
+-CSS Grid and CSS flexbox for the layout.
+-CSS Animation for the notes fade-in effect.
 
 👉 &nbsp; For live preview, <strong><a href="https://taskboardproject.netlify.app/">Click Here</a></string>
 
