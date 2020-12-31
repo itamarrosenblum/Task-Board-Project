@@ -1,0 +1,270 @@
+/* -------------------------------
+Purpose: Main CSS File
+Version: 0.6
+Author: Itamar Rosenblum
+Date: 24-12-20
+Last Update: 31-12-20
+------------------------------- */
+
+/* ------------------------------ */
+/* Basic Setup */
+/* ------------------------------ */
+/* ----- Google fonts ----- */
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swapRoboto:wght@300;400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,
+html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    overflow-x: hidden;
+    color: #333;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(img/bodybg.jpg);
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+    color: #000;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 150px 2fr 1fr;
+    justify-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/* ------------------------------ */
+/* Header */
+/* ------------------------------ */
+header { 
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 10px;
+    z-index: 2;
+    transition: transform 0.5s;
+    background-image: url(img/pin.png), url(img/notebg.png);
+    background-repeat: no-repeat;
+    background-size: 15px, 350px;
+    background-position: top, 0 100%;
+}
+
+header:hover { transform: skewY(-1deg)}
+
+h1 {
+    font-family: 'Gochi Hand', cursive;
+    font-weight: 900;
+    letter-spacing: 1px;
+    color: #000;
+}
+
+/* ------------------------------ */
+/* Form */
+/* ------------------------------ */
+.container-form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+form {
+    width: 500px;
+    border-radius: 4px;
+    box-shadow: 1px 5px 10px 0px rgba(0, 0, 0, 0.4);
+    background-image: url(img/pin.png), url(img/pin.png), url(img/formbg.jpg);
+    background-repeat: no-repeat;
+    background-size: 15px, 15px, cover;
+    background-position: top left, bottom right;
+}
+
+form div {
+    display: flex;
+    justify-content: center;
+    padding-left: 50px;
+    border-bottom: 3px solid blue;
+}
+
+form div:nth-child(5),
+form div:nth-child(6) { border-bottom: none;}
+
+
+form div input,
+form div button  { 
+    width: 100%;
+    padding: 1px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 95%;
+    background-color: transparent;
+}
+
+form div input[type="text"] { padding: 4px 0;}
+
+form div input[type="date"],
+form div input[type="time"] { cursor: text; }
+
+form div input:focus,
+form div button:focus { outline: none; }
+
+form div label { 
+    padding: 3px 0;
+    align-self: center;
+    font-weight: 400;
+    color: #777;
+}
+
+form div button {
+    cursor: pointer;
+    font-weight: 500;
+    transition: color 0.4s;
+}
+
+form div button:hover { color: #555; }
+
+.container-status {
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    text-align: center;
+    font-weight: 500;
+    background-color: #e63922;
+    color: #fff;
+}
+
+/* ------------------------------ */
+/* Notes */
+/* ------------------------------ */
+.container-notes { 
+    width: 100vw;
+    padding: 0 50px; 
+}
+
+.box-note {
+   display: grid;
+   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+   grid-template-rows: auto;
+   justify-items: center;
+}
+
+.note-style {
+    width: 180px;
+    height: 250px;
+    position: relative;
+    padding: 10px;
+    transition: transform 0.2s;
+    list-style-type: none;
+    background-image: url(img/notebg.png);
+    opacity: 1;
+	animation-name: fadeInNote;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 0.5s;
+}
+
+@keyframes fadeInNote {
+	0% { opacity: 0; }
+	100% { opacity: 1; }
+}
+
+.note-style:hover { transform: skewY(-1deg); }
+
+.container-delete-icon {
+    visibility: hidden;
+    opacity: 0;    
+}
+
+.container-delete-icon button {
+    display: inline-block;
+    position: absolute;
+    right: 25px;
+    top: 25px;
+    border: none;
+    z-index: 1;
+    cursor: pointer;
+    background-color: transparent;
+    color: #e84118;
+}
+
+.fa-window-close{
+    font-size: 150%;
+    background-color: #FEFF99;
+}
+
+.note-style:hover .container-delete-icon {
+    visibility: visible;
+    opacity: 1;
+}
+
+.task-note {
+    height: 250px;
+    max-height: 170px;
+    margin-top:20px;
+    word-wrap: break-word;
+    padding-bottom: 5px;
+    transform: skewY(1deg);
+    overflow-y: auto;
+}
+
+.task-date-time { transform: skewY(1deg); }
+
+/* ------------------------------ */
+/* Footer */
+/* ------------------------------ */
+footer { 
+    align-self: end; 
+    justify-self: center;
+    padding-top: 15px;
+}
+
+.footer-content {
+    height: 160px;
+    padding: 10px;
+    transition: transform 0.5s;
+    background-image: url(img/pin.png), url(img/notebg.png);
+    background-repeat: no-repeat;
+    background-size: 15px, 120%;
+    background-position: top, 0 100%;
+}
+
+.footer-content:hover { transform: skewY(-1deg); }
+
+.footer-content p { 
+    margin-top: 20px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 150%;
+    font-size: 75%;
+}
+
+.footer-nav {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    height: 30px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-nav li { padding-right: 10px; }
+
+.footer-nav a { text-align: right;}
+
+.footer-nav li a i { 
+    font-size: 150%; 
+    color: #69693e;
+    transition: color 0.4s;
+}
+
+.footer-nav li a i:hover { color: #929256; }

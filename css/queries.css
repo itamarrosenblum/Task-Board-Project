@@ -1,0 +1,13 @@
+/* -------------------------------
+Purpose: Main Queries File
+Version: 0.1
+Author: Itamar Rosenblum
+Date: 28-12-20
+Last Update: none
+------------------------------- */
+
+@media only screen and (max-width: 600px) {
+    .container-form { padding: 5px; }
+
+    form { width: 100%; justify-self: center;}
+}
