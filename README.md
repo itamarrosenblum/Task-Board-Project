@@ -8,7 +8,7 @@
 * CSS3
 
 ## Description 🛠️
-Responsive task board project.
+Responsive task board project.<br>
 User inputs are saved in local storege.
 The design was made by using prue CSS3:
 * CSS Grid and CSS flexbox for the layout.
