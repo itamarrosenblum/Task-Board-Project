@@ -21,6 +21,7 @@ The design was made by using vanilla CSS3, e.g.
 - CSS Animation was used for the fade-in effect.
 
 The project is hosted on Netlify:
+
 🔗 &nbsp; For live preview, <strong><a href="https://taskboardproject.netlify.app/">Click Here</a></string>
 
 ## Demonstration
