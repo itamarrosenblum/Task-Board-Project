@@ -25,6 +25,6 @@ The design was made by using vanilla CSS3, e.g.
 ## Demonstration
 <img src="https://im7.ezgif.com/tmp/ezgif-7-0fd0ddcc80d5.gif" alt="Task Board project">
 
-<img src="https://im7.ezgif.com/tmp/ezgif-7-fdf44ecd1fda.gif" alt="Task Board project">
+<img src="https://i.imgur.com/g9uhZII.gif" alt="Task Board project">
 
-<img src="https://im7.ezgif.com/tmp/ezgif-7-702d77909ffc.gif" alt="Task Board project">
+<img src="https://i.imgur.com/smRYgOp.gif" alt="Task Board project">
