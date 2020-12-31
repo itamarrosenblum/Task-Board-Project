@@ -19,9 +19,9 @@ The design was created by using vanilla CSS3, e.g.
 - CSS Grid and CSS Flexbox was used for the layout.
 
 - CSS Animation was used for the fade-in effect.
-___
+
 🔗 &nbsp; For live preview, <strong><a href="https://taskboardproject.netlify.app/">Click Here</a></string>
-___
+
 ## Demonstration
 <img src="https://im7.ezgif.com/tmp/ezgif-7-0fd0ddcc80d5.gif" alt="Task Board project">
 
