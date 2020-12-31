@@ -16,7 +16,7 @@ The logic was written using vanilla JavaScript.
 
 The design was created by using vanilla CSS3, e.g.
 
-- CSS Grid and CSS Flexbox was used for the layout.
+- CSS Grid and CSS Flexbox were used for the layout.
 
 - CSS Animation was used for the fade-in effect.
 
