@@ -20,7 +20,7 @@ The design was created by using vanilla CSS3, e.g.
 
 - CSS Animation was used for the fade-in effect.
 
-👉 &nbsp; For live preview, <strong><a href="https://taskboardproject.netlify.app/">Click Here</a></string>
+🔗 &nbsp; For live preview, <strong><a href="https://taskboardproject.netlify.app/">Click Here</a></string>
 
 ## Demonstration
 <img src="https://im7.ezgif.com/tmp/ezgif-7-0fd0ddcc80d5.gif" alt="Task Board project">
