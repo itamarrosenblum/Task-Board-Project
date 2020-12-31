@@ -7,7 +7,7 @@
 * HTML5
 * Vanilla CSS3
 
-## Description 🛠️
+## Description 📝
 Responsive task board project.
 
 The logic was written using vanilla JavaScript.
