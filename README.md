@@ -25,8 +25,8 @@ The project is hosted on Netlify:
 🔗 &nbsp; For live preview, <strong><a href="https://taskboardproject.netlify.app/">Click Here</a></string>
 
 ## Demonstration
-<img src="https://im7.ezgif.com/tmp/ezgif-7-0fd0ddcc80d5.gif" alt="Task Board project">
+<img src="https://s2.gifyu.com/images/ezgif-7-6bbd7ff9cebe.gif" alt="Task Board project">
 
-<img src="https://i.imgur.com/g9uhZII.gif" alt="Task Board project">
+<img src="https://i.imgur.com/LLqEtdX.gif" alt="Task Board project">
 
-<img src="https://i.imgur.com/smRYgOp.gif" alt="Task Board project">
+<img src="blob:https://imgur.com/b7e2c5e3-7a15-4e2e-941b-1d9b6100bba7" alt="Task Board project">
