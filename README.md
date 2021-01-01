@@ -1,6 +1,6 @@
 # Task Board Project
 
-<img src="https://i.imgur.com/EcOjgo1.png" alt="Task Board project">
+<img src="https://i.imgur.com/4oIPBU3.png" alt="Task Board project">
 
 ## Technologies used 🛠️
 * Vanilla JavaScript
@@ -29,4 +29,4 @@ The project is hosted on Netlify:
 
 <img src="https://i.imgur.com/LLqEtdX.gif" alt="Task Board project">
 
-<img src="blob:https://imgur.com/b7e2c5e3-7a15-4e2e-941b-1d9b6100bba7" alt="Task Board project">
+<img src="https://i.imgur.com/WzRfyk8.gif" alt="Task Board project">
