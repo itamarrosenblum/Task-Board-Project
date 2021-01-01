@@ -27,6 +27,6 @@ The project is hosted on Netlify:
 ## Demonstration
 <img src="https://s2.gifyu.com/images/ezgif-7-6bbd7ff9cebe.gif" alt="Task Board project">
 
-<img src="https://s2.gifyu.com/images/ezgif-7-05646009f80f.gif" alt="Task Board project">
+<img src="https://s2.gifyu.com/images/ezgif-7-d0242fc71bc5.gif" alt="Task Board project">
 
 <img src="https://i.imgur.com/WzRfyk8.gif" alt="Task Board project">
