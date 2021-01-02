@@ -25,7 +25,7 @@ The design was made using vanilla CSS3, e.g.
 ## Live Prewview 🔗
 The project is hosted on Netlify.
 
-🔗 &nbsp; For live preview, <strong><a href="https://taskboardproject.netlify.app/">Click Here</a></string>
+For live preview, <strong><a href="https://taskboardproject.netlify.app/">Click Here</a></string>
 
 ## Demonstration 🤹‍♂️
 <img src="https://s2.gifyu.com/images/ezgif-7-6bbd7ff9cebe.gif" alt="Task Board project">
