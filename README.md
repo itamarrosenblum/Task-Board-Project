@@ -8,15 +8,15 @@
 * Vanilla CSS3
 
 ## Description 📝
-Responsive Taskboard Web Application.
+### Responsive Taskboard Web Application.
 - The user can add new tasks and delete them afterward.
 - The local storage is active and saves the data.
 
-The logic was written using vanilla JavaScript.
+### The logic was written using vanilla JavaScript.
 
 - User inputs are saved in the local storage.
 
-The design was made using vanilla CSS3, e.g.
+### The design was made using vanilla CSS3, e.g.
 
 - CSS Grid and CSS Flexbox were used for the layout.
 
