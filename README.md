@@ -22,7 +22,7 @@ The design was made using vanilla CSS3, e.g.
 
 - CSS Animation was used for the fade-in effect.
 
-## Live Prewview 🔗
+## Live Preview 🔗
 The project is hosted on Netlify.
 
 For live preview, <strong><a href="https://taskboardproject.netlify.app/">Click Here</a></string>
