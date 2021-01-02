@@ -23,8 +23,8 @@
 - CSS Animation was used for the fade-in effect.
 
 #### Other
-- The fonts are from the Google Fonts library
-- The icons are from the Font Awesome library
+- The fonts are imported into the project via Google Fonts library
+- The icons are imported into the project via Font Awesome library
 
 ## Live Preview 🔗
 The project is hosted on Netlify.
