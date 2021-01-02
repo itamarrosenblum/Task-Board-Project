@@ -1,4 +1,4 @@
-# Task Board Project
+# Task Board - Web Application (Front End Project)
 
 <img src="https://i.imgur.com/4oIPBU3.png" alt="Task Board project">
 
@@ -8,7 +8,9 @@
 * Vanilla CSS3
 
 ## Description 📝
-Responsive task board project.
+Responsive Taskboard Web Application.
+- The user can add new tasks and delete them afterward.
+- The local storage is active and saves the data.
 
 The logic was written using vanilla JavaScript.
 
