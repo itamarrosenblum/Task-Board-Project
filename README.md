@@ -29,7 +29,7 @@
 ## Live Preview 🔗
 The project is hosted on Netlify.
 
-For live preview, <strong><a href="https://taskboardproject.netlify.app/">Click Here</a></string>.
+For live preview, <strong><a href="https://taskboardproject.netlify.app/">Click Here</a></strong>.
 
 ## Demonstration 🤹‍♂️
 <img src="https://s2.gifyu.com/images/ezgif-7-6bbd7ff9cebe.gif" alt="Task Board project">
