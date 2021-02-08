@@ -9,18 +9,8 @@
 
 ## Description 📝
 #### Responsive Taskboard Web Application.
-- The user can add new tasks and delete them afterward.
-- The local storage is active and saves the data.
-
-#### The logic was written using vanilla JavaScript.
-
-- User inputs are saved in the local storage.
-
-#### The design was made using vanilla CSS3, e.g.
-
-- CSS Grid and CSS Flexbox were used for the layout.
-
-- CSS Animation was used for the fade-in effect.
+- Users can add new tasks and delete them afterward.
+- Users inputs are saved in the localStorage.
 
 #### Other
 - The fonts are imported via Google Fonts library
