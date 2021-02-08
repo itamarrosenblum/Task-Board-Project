@@ -10,7 +10,7 @@
 ## Description 📝
 #### Responsive Taskboard Web Application.
 - Users can add new tasks and delete them afterward.
-- Users inputs are saved in the localStorage.
+- User's inputs are saved in the localStorage.
 
 #### Other
 - The fonts are imported via Google Fonts library
